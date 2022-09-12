@@ -1,0 +1,35 @@
+---
+layout: post
+title: 1. Github Page 생성
+date: 2022-09-12 17:52:23 +0900
+category: Git 
+---
+<h4>1.<a href="https://github.com/">Github 사이트</a>에 접속하여 계정을 생성한다.</h4>
+<p style="text-align:center">
+    <img src="/public/img/git/git1.png" alt="">
+</p>
+
+<h4>  2. 해당 계정으로 접속 후, 새로운 Repository를 생성한다. </h4> 
+<p style="text-align:center">
+    <img style="width: 700px;" src="/public/img/git/git2.png" alt="">
+</p>
+
+<h4>  3. Repository 생성 </h4> 
+- Repository name은 "username.github.io"로 입력한다.
+- Description은 Repository의 설명글을 작성한다.(생략가능)
+- Public으로 선택
+- Add a README file 선택
+<p style="text-align:center">
+    <img style="width: 700px;" src="/public/img/git/git3.png" alt="">
+</p>
+
+<h4>  4. Git Page 생성 </h4> 
+- 생성된 Repository로 이동한 후, 상단 Settings를 클릭한다.
+- Settings 좌측 하단부에 Pages를 클릭한다.
+- Source와 Branch 항목을 빨간색 박스와 동일하게 맞춘 후 Save 버튼을 누르면 상단 초록색 박스가 나올 겁니다.
+<p style="text-align:center">
+    <img style="width: 700px;" src="/public/img/git/git4.png" alt="">
+</p>
+
+<h4> 5. Git Page 접속 </h4> 
+- 해당 주소가 Github Page 입니다. 접속이 되지 않는다면 5~10분 기다린 후 접속해보시면 됩니다.
