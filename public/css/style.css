@@ -98,7 +98,7 @@ code {
 	flex: 0 0 220px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #222;
+	background-color: #0b341a;
 	color: #fff;
 }
 
@@ -112,7 +112,7 @@ code {
 }
 
 .sidebar-brand > a {
-	font-size: 300%;
+	font-size: 200%;
 	font-family: 'Gelasio';
 	color: #fff;
 }
@@ -132,7 +132,7 @@ code {
 
 .nav-title {
 	font-size: 100%;
-	font-family: "Noto Sans";
+	/*font-family: "Noto Sans";*/
 	text-transform: uppercase;
 	border-bottom: 1px solid gray;
 	margin-bottom: 5px;
@@ -140,7 +140,7 @@ code {
 
 a.nav-item {
 	font-size: 120%;
-	font-family: "Noto Sans";
+	/*font-family: "Noto Sans";*/
 	text-transform: capitalize;
 	color: #aaa;
 }
